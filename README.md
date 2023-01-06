@@ -2,7 +2,7 @@
 
 TouchDesigner examples for my class.
 
-Lectures web site :  https://yoppa.org/mit-ma21
+Lectures web site :  https://yoppa.org/geidai-media2-22
 
 ## Content
 
