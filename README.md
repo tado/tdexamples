@@ -5,5 +5,5 @@
 
 1. [TouchDesigner初めの一歩 インストールと操作の基本](https://github.com/tado/geidai-ma/blob/main/01_introduction-wp.md)
     - [サンプルファイル](https://github.com/tado/tdexamples/tree/main/01)
-2. [https://github.com/tado/tdexamples/tree/main/01](https://github.com/tado/geidai-ma/blob/main/02_using-tops-wp.md)
+2. [TOPによるテクスチャー操作](https://github.com/tado/geidai-ma/blob/main/02_using-tops-wp.md)
     - [サンプルファイル](https://github.com/tado/tdexamples/tree/main/02)
