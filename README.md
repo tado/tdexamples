@@ -2,5 +2,5 @@
 
 TouchDesigner examples for my class.
 
-Lectures web site :  https://yoppa.org/geidai-media1-25
+Lectures web site : https://yoppa.org/geidai-media1-26/
 
