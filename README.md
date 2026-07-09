@@ -36,3 +36,6 @@
 11. コンピュータービジョン: MediaPipe Pluginをつかってみる
     - [講義資料](https://github.com/tado/geidai-ma/blob/main/11_MediaPipe-wp.md)
     - [サンプルファイル](https://github.com/tado/tdexamples/tree/main/11)
+12. プロジェクトの構造化とGUI、Container、Widget
+    - [講義資料](https://github.com/tado/geidai-ma/blob/main/12_ToxComp-wp.md)
+    - [サンプルファイル](https://github.com/tado/tdexamples/tree/main/12)
